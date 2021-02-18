@@ -1,6 +1,7 @@
 module github.com/Lunar1338/lunaBot
 
 // +heroku goVersion go1.15
+// +heroku install ./cmd/... ./special
 go 1.15
 
 require (
