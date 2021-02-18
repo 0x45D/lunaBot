@@ -1,1 +1,1 @@
-Worker: go ./main.go
+Worker: go run ./main.go
