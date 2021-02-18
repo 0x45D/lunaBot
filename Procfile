@@ -1,1 +1,1 @@
-worker
+worker: bin/src.exe
